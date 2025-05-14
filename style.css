@@ -177,6 +177,10 @@ h1 {
     .drug-card h3 {
         font-size: 1rem;
     }
+    .category-card {
+        font-size: 0.75rem;
+        padding: 0.4rem;
+    }
 }
 
 @media (max-width: 480px) {
@@ -190,7 +194,8 @@ h1 {
     }
 
     .category-card {
-        font-size: 0.75rem;
+        font-size: 0.7rem;
+        padding: 0.3rem;
     }
 
     .results-container {
@@ -199,5 +204,10 @@ h1 {
 
     #searchInput {
         padding: 0.7rem;
+    }
+    
+
+    .category-grid {
+        grid-template-columns: repeat(auto-fit, minmax(60px, 1fr));
     }
 }
