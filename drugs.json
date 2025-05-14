@@ -306,6 +306,117 @@
         "pregnancySafety": "Safe during pregnancy Tea/capsule: 2–3 g of crude herb at bedtime",
         "Lactation": "May be....",
         "otc": true
+    },
+    {
+        "generic": " Benzoyl Peroxide",
+        "tradeNames": ["BENZAC-AC 5 % GEL "],
+        "category": "Topical  ",
+        "pregnancySafety": " Use with caution (On a limited surface area e.g. face) during pregnancy and lactation.",
+        "Lactation": " Use with caution",
+        "otc": true
+    },
+{
+        "generic": " Povidone Iodine",
+        "tradeNames": ["BETADINE ANT-SOLU 120ML.","DEFODIN ANTI SOLU. 200ML"],
+        "category": "Topical",
+        "pregnancySafety": " To be used on small areas for few days and not for cleansing body cavities due to risk in 2nd & 3rd Trimesters.",
+        "Lactation": "Safe ",
+        "otc": true
+    },
+
+
+{
+        "generic": " Chlorhexidine (antiseptic)",
+        "tradeNames": ["ECZAL 50GM CREAM","TRIPLEX 200ML GEL."],
+        "category": "Topical",
+        "pregnancySafety": " Safe",
+        "Lactation": "Safe ",
+        "otc": true
+    },
+{
+        "generic": "Corticosteroids",
+        "tradeNames": ["LOCOID 30GM CREAM","ALFACORT 15GM CREAM"],
+        "category": "Topical",
+        "pregnancySafety": " Safe but limited for small areas, short time period and to use less potent corticosteroids.",
+        "Lactation": "Safe ",
+        "otc": true
+    },
+{
+        "generic": " Lidocaine ",
+        "tradeNames": ["LIDOCAINE 5% OINT 30G","EMLA 5TUBES/5GM CREAM"],
+        "category": "Topical",
+        "pregnancySafety": " Safe",
+        "Lactation": "Safe ",
+        "otc": true
+    },
+
+
+
+
+{
+        "generic": " Camphor & Menthol",
+        "tradeNames": ["ANGELICA CREAM 50 GM."],
+        "category": "Topical",
+        "pregnancySafety": " Safe",
+        "Lactation": "Safe ",
+        "otc": true
+    },
+{
+        "generic": "Tacrolimus",
+        "tradeNames": ["VIOTOPIC 0.1% 30GM OINT.","PROTOPIC 0.1% 60GM OINTMENT."],
+        "category": "Topical",
+        "pregnancySafety": " Used with sever caution in strict indications only if the potential benefits outweigh the potential risks.",
+        "Lactation": "Safe ",
+        "otc": true
+    },
+{
+        "generic": " Salicylic Acid",
+        "tradeNames": ["DIPROSALIC 30 GM OINTMENT","SALIBET 30 GM OINTMENT."],
+        "category": "Topical",
+        "pregnancySafety": "Not more that 6% during pregnancy and lactation.",
+        "Lactation": " should not be used on chest area to avoid accidental contamination of child",
+        "otc": true
+    },
+{
+        "generic": " Carbamide (Urea) ",
+        "tradeNames": ["BABE 10% UREA REPAIR LOTION 500ML","DIETBEL UREA 10% CREAM 50 ML."],
+        "category": "Topical",
+        "pregnancySafety": "Safe",
+        "Lactation": " Safe",
+        "otc": true
+    },
+
+{
+        "generic": " Dimeticone ",
+        "tradeNames": ["ANTI LICE SPRAY NYDA 50ML"],
+        "category": "Topical",
+        "pregnancySafety": "Safe",
+        "Lactation": " Safe",
+        "otc": true
+    },
+{
+        "generic": " Azelaic acid ",
+        "tradeNames": ["SKINOREN CREAM 30G"],
+        "category": "Topical",
+        "pregnancySafety": "used for strict indications on small skin surfaces, not in the first trimester.",
+        "Lactation": " Safe",
+        "otc": true
+    },
+{
+        "generic": "Permethrin (Scabicide) ",
+        "tradeNames": ["ERALYCE 5 % CREAM 30 GM","ERALYCE 1 % CREAM 30 GM"],
+        "category": "Topical",
+        "pregnancySafety": "Safe",
+        "Lactation": " Safe",
+        "otc": true
+    },
+{
+        "generic": " Anti Hemorrhoid medications",
+        "tradeNames": ["BENOSTAN PROCTO 28GM","NAYYAR HEMORRHOID OINTMENT 30GM"],
+        "category": "Topical",
+        "pregnancySafety": "Safe",
+        "Lactation": " Safe",
+        "otc": true
     }
 
 ]
