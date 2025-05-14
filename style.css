@@ -188,7 +188,9 @@ h1 {
         flex-direction: column;
         gap: 0.5rem;
     }
-
+    .logo {
+    display: none;
+    }
     .container {
         padding: 0 0.5rem;
     }
