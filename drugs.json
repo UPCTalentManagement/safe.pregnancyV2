@@ -452,6 +452,125 @@
         "Lactation": "May be....",
         "otc": true,
         "contra":true
+    },{
+        "generic": "Methyldopa",
+        "tradeNames": ["ALDOMET "],
+        "category": "CVS ",
+        "pregnancySafety": " Safe",
+        "Lactation": " Safe",
+        "otc": false
+    },
+{
+        "generic": " Metoprolol",
+        "tradeNames": ["Carelio " ,"Lopresor"],
+        "category": "CVS",
+        "pregnancySafety": " Potential risk in 2nd & 3rd Trimesters.",
+        "Lactation": "Contraindicated ",
+        "otc": false,
+        "contra":true
+    },
+
+
+{
+        "generic": " Bisoprolol",
+        "tradeNames": ["CONCOR" ,"SESCTA"],
+        "category": "CVS",
+        "pregnancySafety": "Potential risk in 2nd & 3rd Trimesters.",
+        "Lactation": "Contraindicated ",
+        "otc": false,
+        "contra":true
+    },
+{
+        "generic": " Nifedipine",
+        "tradeNames": ["ADALAT " ,"EPILAT"],
+        "category": "CVS",
+        "pregnancySafety": " safe.",
+        "Lactation": "safe ",
+        "otc": false
+    },
+{
+        "generic": " Verapamil",
+        "tradeNames": ["ISOPTIN"],
+        "category": "CVS",
+        "pregnancySafety": " safe.",
+        "Lactation": "safe ",
+        "otc": false
+    },
+{
+        "generic": " Valsartan – All ARBs",
+        "tradeNames": ["TAPUVAN", "DIOVAN"],
+        "category": "CVS",
+        "pregnancySafety": " Contraindicated in 2nd & 3rd Trimester.",
+        "Lactation": "safe ",
+        "otc": false,
+        "contra":true
+    },
+
+{
+        "generic": " Enalapril – All ACEIs",
+        "tradeNames": ["Renitec"],
+        "category": "CVS",
+        "pregnancySafety": " Contraindicated in 2nd & 3rd Trimester.",
+        "Lactation": "safe ",
+        "otc": false,
+        "contra":true
+    },
+{
+        "generic": " Digoxin",
+        "tradeNames": ["LANOXIN"],
+        "category": "CVS",
+        "pregnancySafety": " Safe.",
+        "Lactation": "safe ",
+        "otc": false
+    },
+{
+        "generic": " Amiodarone",
+        "tradeNames": ["CORDARON"],
+        "category": "CVS",
+        "pregnancySafety": " Contraindicated.",
+        "Lactation": "Contraindicated",
+        "otc": false,
+        "contra":true
+    },
+{
+        "generic": " Nitates",
+        "tradeNames": ["ISOBIDE", "NITRODERM"],
+        "category": "CVS",
+        "pregnancySafety": " safe.",
+        "Lactation": "safe",
+        "otc": false
+    },
+{
+        "generic": " Pentoxifylline ",
+        "tradeNames": ["TRENTAL"],
+        "category": "CVS",
+        "pregnancySafety": " may be used.",
+        "Lactation": "safe",
+        "otc": false
+    },
+{
+        "generic": " Furosemide ",
+        "tradeNames": ["LASIX"],
+        "category": "CVS",
+        "pregnancySafety": " may be used.",
+        "Lactation": "safe",
+        "otc": false
+    },
+{
+        "generic": " hydrochlorothiazide ",
+        "tradeNames": ["Monozide.", "ESIDREX"],
+        "category": "CVS",
+        "pregnancySafety": " Safe.",
+        "Lactation": "safe",
+        "otc": false
+    },
+{
+        "generic": " Spironolactone ",
+        "tradeNames": ["ALDACTONE", "NORACTONE"],
+        "category": "CVS",
+        "pregnancySafety": " low risk.",
+        "Lactation": "safe",
+        "otc": false
     }
 
 ]
