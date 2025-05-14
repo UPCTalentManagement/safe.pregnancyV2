@@ -38,7 +38,8 @@
         "category": "Respiratory",
         "pregnancySafety": "Not Recommended",
         "Lactation":"May be used",
-        "otc": true
+        "otc": true,
+        "contra":true
     },
     {
         "generic": " Dextromethorphan ",
@@ -273,7 +274,8 @@
         "category": "GIT",
         "pregnancySafety": " Contraindicated during 1st trimester",
         "Lactation": "Contraindicated",
-        "otc": true
+        "otc": true,
+        "contra": true
     },
     {
         "generic": " Cranberry   ",
@@ -310,7 +312,7 @@
     {
         "generic": " Benzoyl Peroxide",
         "tradeNames": ["BENZAC-AC 5 % GEL "],
-        "category": "Topical  ",
+        "category": "Topical",
         "pregnancySafety": " Use with caution (On a limited surface area e.g. face) during pregnancy and lactation.",
         "Lactation": " Use with caution",
         "otc": true
