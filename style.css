@@ -182,7 +182,14 @@ h1 {
         padding: 0.4rem;
     }
 }
-
+@media (max-width: 555px) {
+    .header-content {
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+    .logo {
+    display: none;
+    }
 @media (max-width: 480px) {
     .header-content {
         flex-direction: column;
