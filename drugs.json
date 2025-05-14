@@ -2,7 +2,7 @@
 [
     {
         "generic": "VITAMIN C",
-        "tradeNames": ["Ascorbic Acid", "Citrus Bioflavonoids"],    
+        "tradeNames": ["Ascorbic Acid"],    
         "category": "Natural",
         "pregnancySafety": "Generally safe in all trimesters",
         "Lactation":"Safe",
@@ -16,24 +16,9 @@
         "Lactation":"Safe",
         "otc": true
     },
+    
     {
-        "generic": "Paracetamol",
-        "tradeNames": ["FEVADOL"," EMIDOL", "ADOL","TYLENOL","PANADREX"," PANDA"," OMOL"," DEFADOL"],
-        "category": "Analgesics",
-        "pregnancySafety": "Generally Safe",
-        "Lactation":" Compatible ",
-        "otc": true
-    },
-    {
-        "generic": "Ibuprofen",
-        "tradeNames":["PROF"," SAPOFEN"," BRUFEN"],
-        "category": "Analgesics",
-        "pregnancySafety": "Risk in 1st and 3rd Trimester ",
-        "Lactation": "Compatible",
-        "otc": true
-    },
-    {
-        "generic": " Pseudoephedrine ",
+        "generic": "Pseudoephedrine",
         "tradeNames": ["PANADOL SINUS"," FLUTAB SINUS"],
         "category": "Respiratory",
         "pregnancySafety": "Not Recommended",
@@ -59,7 +44,7 @@
     },
     {
         "generic": "Paracetamol",
-        "tradeNames": ["FEVADOL"," EMIDOL", "ADOL","TYLENOL","PANADREX","PANDA","OMOL","DEFADOL"],
+        "tradeNames": ["FEVADOL"," EMIDOL", "ADOL","TYLENOL"],
         "category": "Analgesics",
         "pregnancySafety": "Generally Safe",
         "Lactation":"Compatible",
@@ -78,18 +63,10 @@
         "tradeNames": ["“EMIFENAC”"," ROFENAC-D"," RAPIDUS"],
         "category": "Analgesics",
         "pregnancySafety": "2nd choice after Paracetamol but there is Risk in 1st and 3rd Trimester ",
-"Lactation": "Compatible",
+        "Lactation": "Compatible",
         "otc": true
     },
-{
-        "generic": " Pseudoephedrine ",
-        "tradeNames": ["PANADOL SINUS"," FLUTAB SINUS"],
-        "category": "Respiratory",
-        "pregnancySafety": "Not Recommended",
-        "Lactation":"May be used",
-        "otc": true,
-        "contra":true
-    },
+
 {
         "generic": " Dextromethorphan ",
         "tradeNames": ["KAFOSED ", " DEXTROKUF "," RIAPHAN"],
@@ -269,7 +246,7 @@
         "otc": true
     },
 {
-        "generic": " Simvastatin ",
+        "generic": " Simvastatin",
         "tradeNames": ["SIMVA "," SIMVAGEN "," SIMVAGEN "],
         "category": "GIT",
         "pregnancySafety": " Contraindicated during 1st trimester",
@@ -298,20 +275,13 @@
         "tradeNames": ["SONGHA NIGHT","JP VALERIAN "],
         "category": "Natural",
         "pregnancySafety": "Safe during pregnancy Tea/capsule: 2–3 g of crude herb at bedtime",
-        "Lactation": "May be....",
+        "Lactation": "Not Recommended",
         "otc": true
     },
-    {
-        "generic": " Valerian   ",
-        "tradeNames": ["SONGHA NIGHT","JP VALERIAN "],
-        "category": "Natural",
-        "pregnancySafety": "Safe during pregnancy Tea/capsule: 2–3 g of crude herb at bedtime",
-        "Lactation": "May be....",
-        "otc": true
-    },
+    
     {
         "generic": " Benzoyl Peroxide",
-        "tradeNames": ["BENZAC-AC 5 % GEL "],
+        "tradeNames": ["BENZAC-AC 5 % GEL"],
         "category": "Topical",
         "pregnancySafety": " Use with caution (On a limited surface area e.g. face) during pregnancy and lactation.",
         "Lactation": " Use with caution",
@@ -319,7 +289,7 @@
     },
 {
         "generic": " Povidone Iodine",
-        "tradeNames": ["BETADINE ANT-SOLU 120ML.","DEFODIN ANTI SOLU. 200ML"],
+        "tradeNames": ["BETADINE ANT-SOLU","DEFODIN ANTI SOLU."],
         "category": "Topical",
         "pregnancySafety": " To be used on small areas for few days and not for cleansing body cavities due to risk in 2nd & 3rd Trimesters.",
         "Lactation": "Safe ",
@@ -329,7 +299,7 @@
 
 {
         "generic": " Chlorhexidine (antiseptic)",
-        "tradeNames": ["ECZAL 50GM CREAM","TRIPLEX 200ML GEL."],
+        "tradeNames": ["ECZAL CREAM","TRIPLEX GEL."],
         "category": "Topical",
         "pregnancySafety": " Safe",
         "Lactation": "Safe ",
@@ -337,7 +307,7 @@
     },
 {
         "generic": "Corticosteroids",
-        "tradeNames": ["LOCOID 30GM CREAM","ALFACORT 15GM CREAM"],
+        "tradeNames": ["LOCOID CREAM","ALFACORT CREAM"],
         "category": "Topical",
         "pregnancySafety": " Safe but limited for small areas, short time period and to use less potent corticosteroids.",
         "Lactation": "Safe ",
@@ -345,19 +315,16 @@
     },
 {
         "generic": " Lidocaine ",
-        "tradeNames": ["LIDOCAINE 5% OINT 30G","EMLA 5TUBES/5GM CREAM"],
+        "tradeNames": ["LIDOCAINE 5% OINT","EMLA 5TUBES CREAM"],
         "category": "Topical",
         "pregnancySafety": " Safe",
         "Lactation": "Safe ",
         "otc": true
     },
 
-
-
-
 {
         "generic": " Camphor & Menthol",
-        "tradeNames": ["ANGELICA CREAM 50 GM."],
+        "tradeNames": ["ANGELICA CREAM"],
         "category": "Topical",
         "pregnancySafety": " Safe",
         "Lactation": "Safe ",
@@ -365,7 +332,7 @@
     },
 {
         "generic": "Tacrolimus",
-        "tradeNames": ["VIOTOPIC 0.1% 30GM OINT.","PROTOPIC 0.1% 60GM OINTMENT."],
+        "tradeNames": ["VIOTOPIC 0.1% OINT.","PROTOPIC 0.1% OINTMENT."],
         "category": "Topical",
         "pregnancySafety": " Used with sever caution in strict indications only if the potential benefits outweigh the potential risks.",
         "Lactation": "Safe ",
@@ -373,15 +340,15 @@
     },
 {
         "generic": " Salicylic Acid",
-        "tradeNames": ["DIPROSALIC 30 GM OINTMENT","SALIBET 30 GM OINTMENT."],
+        "tradeNames": ["DIPROSALIC OINTMENT","SALIBET OINTMENT."],
         "category": "Topical",
         "pregnancySafety": "Not more that 6% during pregnancy and lactation.",
         "Lactation": " should not be used on chest area to avoid accidental contamination of child",
         "otc": true
     },
 {
-        "generic": " Carbamide (Urea) ",
-        "tradeNames": ["BABE 10% UREA REPAIR LOTION 500ML","DIETBEL UREA 10% CREAM 50 ML."],
+        "generic": "Carbamide (Urea)",
+        "tradeNames": ["BABE 10% UREA REPAIR LOTION","DIETBEL UREA 10% CREAM"],
         "category": "Topical",
         "pregnancySafety": "Safe",
         "Lactation": " Safe",
@@ -390,7 +357,7 @@
 
 {
         "generic": " Dimeticone ",
-        "tradeNames": ["ANTI LICE SPRAY NYDA 50ML"],
+        "tradeNames": ["ANTI LICE SPRAY NYDA"],
         "category": "Topical",
         "pregnancySafety": "Safe",
         "Lactation": " Safe",
@@ -398,7 +365,7 @@
     },
 {
         "generic": " Azelaic acid ",
-        "tradeNames": ["SKINOREN CREAM 30G"],
+        "tradeNames": ["SKINOREN CREAM"],
         "category": "Topical",
         "pregnancySafety": "used for strict indications on small skin surfaces, not in the first trimester.",
         "Lactation": " Safe",
@@ -406,7 +373,7 @@
     },
 {
         "generic": "Permethrin (Scabicide) ",
-        "tradeNames": ["ERALYCE 5 % CREAM 30 GM","ERALYCE 1 % CREAM 30 GM"],
+        "tradeNames": ["ERALYCE 5 % CREAM","ERALYCE 1 % CREAM"],
         "category": "Topical",
         "pregnancySafety": "Safe",
         "Lactation": " Safe",
@@ -414,11 +381,77 @@
     },
 {
         "generic": " Anti Hemorrhoid medications",
-        "tradeNames": ["BENOSTAN PROCTO 28GM","NAYYAR HEMORRHOID OINTMENT 30GM"],
+        "tradeNames": ["BENOSTAN PROCTO","NAYYAR HEMORRHOID OINTMENT"],
         "category": "Topical",
         "pregnancySafety": "Safe",
         "Lactation": " Safe",
         "otc": true
+    },{
+        "generic": "St John’s wort",
+        "tradeNames": ["Jamieson St. John's Wort"],
+        "category": "Natural",
+        "pregnancySafety": "May be safe but available date suggest low risk",
+        "Lactation": " Possible Toxicity during lactation",
+        "otc": true
+    },{
+        "generic": "Milk thistle (Silymarin)",
+        "tradeNames": ["Jp Hepaform Liver Support ","Legalon Forte"],
+        "category": "Natural",
+        "pregnancySafety": "Safe in second and third trimester only",
+        "Lactation": "May be....",
+        "otc": true
+    },
+    {
+        "generic": "Senna",
+        "tradeNames": ["A-Lax ","Agiolax "],
+        "category": "Natural",
+        "pregnancySafety": "Not Recommended , may be used with sever caution only in Second and third trimester ",
+        "Lactation": "May be....",
+        "otc": true
+    },
+    {
+        "generic": "Horse chestnut",
+        "tradeNames": ["Arkopharma Horse Chestnut ","Hemorrelax ","Lecoxen"],
+        "category": "Natural",
+        "pregnancySafety": "Safe ",
+        "Lactation": "May be....",
+        "otc": true
+    },
+    {
+        "generic": "Cascara",
+        "tradeNames": ["Jamieson Laxaco"],
+        "category": "Natural",
+        "pregnancySafety": "Contraindicated during pregnancy  ",
+        "Lactation": "May be....",
+        "otc": true,
+        "contra":true
+    },
+    {
+        "generic": "Ginseng",
+        "tradeNames": ["Marnys Ginseng","ROYAL JELLY PLUS GINSENG "],
+        "category": "Natural",
+        "pregnancySafety": "Contraindicated during pregnancy  ",
+        "Lactation": "May be....",
+        "otc": true,
+        "contra":true
+    },
+    {
+        "generic": "Licorice",
+        "tradeNames": ["Glavolean","Rexsol Licorice "],
+        "category": "Natural",
+        "pregnancySafety": "Contraindicated during pregnancy  ",
+        "Lactation": "May be....",
+        "otc": true,
+        "contra":true
+    },
+    {
+        "generic": "Passion Flower ",
+        "tradeNames": ["Jamieson Relaxing Herbal Formula "],
+        "category": "Natural",
+        "pregnancySafety": "Contraindicated during pregnancy  ",
+        "Lactation": "May be....",
+        "otc": true,
+        "contra":true
     }
 
 ]

@@ -51,10 +51,11 @@
                 card.className = 'drug-card';
                 card.innerHTML = `
                     <div class="otc-tag">OTC</div>
+                    ${drug.contra ? '<div class="contraindicated">Contraindicated</div>' : ''}
                     <h3>${drug.generic}</h3>
                     <p><strong>Brands:</strong> ${drug.tradeNames.join(', ')}</p>
-                    <p><strong>Pregnancy Safety:</strong> ${drug.pregnancySafety}</p>
-                    <p><strong>Lactation Safety:</strong> ${drug.Lactation}</p>
+                    <p><strong>Pregnancy:</strong> ${drug.pregnancySafety}</p>
+                    <p><strong>Lactation:</strong> ${drug.Lactation}</p>
                 `;
                 container.appendChild(card);
             });
