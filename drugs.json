@@ -1,14 +1,6 @@
 
 [
     {
-        "generic": "VITAMIN C",
-        "tradeNames": ["Ascorbic Acid"],    
-        "category": "Natural",
-        "pregnancySafety": "Generally safe in all trimesters",
-        "Lactation":"Safe",
-        "otc": true
-    },
-    {
         "generic": "SALINE NASAL SPRAY",
         "tradeNames": ["Ocean", "SINOMARIN"],
         "category": "Respiratory",
@@ -455,7 +447,7 @@
     },{
         "generic": "Methyldopa",
         "tradeNames": ["ALDOMET "],
-        "category": "CVS ",
+        "category": "CVS",
         "pregnancySafety": " Safe",
         "Lactation": " Safe",
         "otc": false
@@ -571,6 +563,60 @@
         "pregnancySafety": " low risk.",
         "Lactation": "safe",
         "otc": false
+    },
+    {
+        "generic": "Rivaroxaban",
+        "tradeNames": ["XARELTO", "VAROXA", "RIVAX"],
+        "category": "Anti-Coagulant",
+        "pregnancySafety": " Potential Risk.",
+        "Lactation": " Toxic",
+        "otc": false,
+        "contra":true
+    },
+{
+        "generic": "Apixaban",
+        "tradeNames": ["ELIQUIS", "APIXABAN", "PAQUIX"],
+        "category": "Anti-Coagulant",
+        "pregnancySafety": " Low Risk.",
+        "Lactation": " Toxic",
+        "otc": false
+    },
+{
+        "generic": "Simvastatin",
+        "tradeNames": ["SIMVA", "VISCOR"],
+        "category": "Anti-lipemic Agent",
+        "pregnancySafety": " All statins are contraindicated.",
+        "Lactation": " All statins are contraindicated ",
+        "otc": false,
+        "contra":true
+    },
+
+
+{
+        "generic": "Itraconazole",
+        "tradeNames": ["TRACON", "ITRAZOL"],
+        "category": "Anti-Fungal Agent",
+        "pregnancySafety": " Low Risk.",
+        "Lactation": " Toxic ",
+        "otc": false
+    },
+{
+        "generic": "Fluconazle",
+        "tradeNames": ["DIFLUCAN", "CANDIVAST"],
+        "category": "Anti-Fungal Agent",
+        "pregnancySafety": "Risk if > 400 mg/day.",
+        "Lactation": " Safe ",
+        "otc": false
+    },
+{
+        "generic": "Acyclovir",
+        "tradeNames": ["ZOVIRAX", "VIRUSTAT"],
+        "category": "Anti-Viral Agent",
+        "pregnancySafety": "Safe.",
+        "Lactation": " Safe ",
+        "otc": false
     }
+
+
 
 ]
